@@ -40,7 +40,7 @@ Os cenários de teste cobrem:
 
 ## Instalação
 
-1. Clone o repositório (substitua pela URL do seu repositório):
+1. Clone o repositório https://github.com/carolinajusto2382/desafio-api-QA:
 
 ```powershell
 git clone <url-do-repo>
