@@ -2,7 +2,7 @@
 
 Suíte de testes E2E para a API Serverest implementada com Cypress.
 
-Este projeto contém uma suíte de testes automatizados para a API e frontend do [Serverest](https://serverest.dev), utilizando o framework [Cypress](https://www.cypress.io/).
+Este projeto contém uma suíte de testes automatizados para a API do [Serverest](https://serverest.dev), utilizando o framework [Cypress](https://www.cypress.io/).
 
 ## Estrutura do Projeto
 
