@@ -2,7 +2,7 @@
 
 Suíte de testes E2E para a API Serverest implementada com Cypress.
 
-Este projeto contém uma suíte de testes automatizados para a API e frontend do [Serverest](https://serverest.dev), utilizando o framework [Cypress](https://www.cypress.io/).
+Este projeto contém uma suíte de testes automatizados para a API do [Serverest](https://serverest.dev), utilizando o framework [Cypress](https://www.cypress.io/).
 
 ## Estrutura do Projeto
 
@@ -22,11 +22,15 @@ Este projeto contém uma suíte de testes automatizados para a API e frontend do
 └── .gitignore
 ```
 
-**Observação sobre testes adicionados**
-- `cypress/e2e/API/Carrinho/listarCarrinho.cy.js` — testes de listagem de carrinho.
-- `cypress/e2e/API/Login/logarUsuario.cy.js` — testes de autenticação/login.
-- `cypress/e2e/API/Produtos/*` — testes de CRUD e busca por ID.
-- `cypress/e2e/API/Usuarios/*` — testes de CRUD e busca por ID.
+## Cenários de Teste
+
+Os cenários de teste cobrem:
+
+- Login com usuário existente
+- Adicionar e remover produtos do carrinho
+- Visualizar produtos no carrinho
+- Fluxos de checkout, incluindo validações de campos obrigatórios
+- Cancelamento do checkout
 
 ## Requisitos
 
