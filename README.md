@@ -40,10 +40,10 @@ Os cenários de teste cobrem:
 
 ## Instalação
 
-1. Clone o repositório https://github.com/carolinajusto2382/desafio-api-QA:
+1. Clone o repositório:
 
 ```powershell
-git clone <url-do-repo>
+git clone https://github.com/carolinajusto2382/desafio-api-QA
 cd Serverest
 ```
 
